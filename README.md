@@ -1,4 +1,4 @@
-# Ruby でTwitterにツイートするだけのやつ(今後回収予定)  
+# Ruby でTwitterにツイートするだけのやつ(今後改修予定)  
 
 自作の [bot](https://twitter.com/rb723bot) を書きなおそうと思いついての手始めに... 
 
